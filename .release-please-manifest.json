@@ -38,8 +38,8 @@
     "python/instrumentation/openinference-instrumentation-strands-agents": "0.1.2",
     "python/instrumentation/openinference-instrumentation-agent-framework": "0.1.4",
     "python/instrumentation/openinference-instrumentation-claude-agent-sdk": "0.1.4",
-    "go/openinference-semantic-conventions": "0.1.0",
-    "go/openinference-instrumentation": "0.1.0",
+    "go/openinference-semantic-conventions": "0.1.1",
+    "go/openinference-instrumentation": "0.1.1",
     "go/openinference-instrumentation-anthropic-sdk-go": "0.1.0",
     "go/openinference-instrumentation-openai-go": "0.1.0"
 }
